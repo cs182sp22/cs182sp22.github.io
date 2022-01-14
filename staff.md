@@ -6,14 +6,22 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
-
-## Instructors
+## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
+
+{% assign head_teaching_assistants = site.staffers | where: 'role', 'Head Teaching Assistant' %}
+{% assign num_head_teaching_assistants = head_teaching_assistants | size %}
+{% if num_head_teaching_assistants != 0 %}
+## Head Teaching Assistant
+
+{% for staffer in head_teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}

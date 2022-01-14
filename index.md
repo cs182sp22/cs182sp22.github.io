@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: Just the Class sds
 nav_exclude: true
 seo:
   type: Course
