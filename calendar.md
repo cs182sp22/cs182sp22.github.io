@@ -1,11 +1,11 @@
----
-layout: page
-title: Calendar
-description: Listing of course modules and topics.
----
+<!------->
+<!--layout: page-->
+<!--title: Calendar-->
+<!--description: Listing of course modules and topics.-->
+<!------->
 
-# Calendar
+<!--# Calendar-->
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+<!--{% for module in site.modules %}-->
+<!--{{ module }}-->
+<!--{% endfor %}-->
