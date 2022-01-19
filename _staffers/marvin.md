@@ -1,7 +1,7 @@
 ---
 name: Marvin Zhang
 role: Instructor
-email: marvin@eecs.berkeley.edu
+email: Make private Piazza post before emailing.
 photo: marvin.jpg
 ---
 
