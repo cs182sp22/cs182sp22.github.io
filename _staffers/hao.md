@@ -3,5 +3,5 @@ name: Hao Liu
 role: Teaching Assistant
 email: hao.liu@cs.berkeley.edu
 website: https://www.haoliu.site/
-photo: staff_placeholder.png
+photo: hao.jpg
 ---

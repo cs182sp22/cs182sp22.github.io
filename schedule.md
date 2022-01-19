@@ -6,6 +6,6 @@
 
 <!--# Weekly Schedule-->
 
-<!--{% for schedule in site.schedules %}-->
-<!--{{ schedule }}-->
-<!--{% endfor %}-->
+{% for schedule in site.schedules %}
+{{ schedule }}
+{% endfor %}
