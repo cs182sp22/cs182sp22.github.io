@@ -42,11 +42,11 @@ schedule:
       - name: Section
         start: 9:00 AM
         end: 10:00 AM
-        location: Dwinelle 219
+        location: Wheeler 120
       - name: Section
         start: 1:00 PM
         end: 2:00 PM
-        location: Dwinelle 219
+        location: Cory 289
       - name: Section
         start: 3:00 PM
         end: 4:00 PM
@@ -77,6 +77,10 @@ schedule:
 
   - name: Friday
     events:
+    - name: Section
+      start: 1:00 PM
+      end: 2:00 PM
+      location: Dwinelle 219
     - name: Section
       start: 3:00 PM
       end: 4:00 PM
