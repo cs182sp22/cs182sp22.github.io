@@ -4,8 +4,11 @@ title: Schedule
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule
+# Schedule
 
 {% for schedule in site.schedules %}
+## {{ schedule.title }}
 {{ schedule }}
+
+
 {% endfor %}

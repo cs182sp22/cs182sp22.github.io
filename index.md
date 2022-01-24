@@ -23,12 +23,14 @@ via Zoom. Lecture slides are provided via Piazza, and lecture videos are
 provided via bCourses. Students are responsible for all lecture content.
 
 
-## Discussions
+## Discussion Sections
 The discussion sections will not cover new material, but rather will give you
 additional practice solving problems. You can attend any discussion section you
 like. However, if there are less crowded sections that fit your schedule, those
 offer more opportunities for you to interact with your TA.
 
+### Section Notes
+1. Week 1: [Section Notes](/assets/section_notes/week1.pdf)
 
 ## Homeworks
 All homeworks are graded for accuracy. You are given a total of 5 slip days for
