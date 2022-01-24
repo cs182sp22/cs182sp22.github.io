@@ -54,9 +54,9 @@ schedule:
   - name: Wednesday
     events:
       - name: Office Hours (Smitha Milli)
-        start: 11:00 AM
-        end: 1:00 PM
-        location: Soda 411
+        start: 9:00 AM
+        end: 11:00 AM
+        location: Zoom
       - name: Office Hours (Marvin Zhang)
         start: 6:30 PM
         end: 7:00 PM
