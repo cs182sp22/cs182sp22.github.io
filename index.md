@@ -22,6 +22,10 @@ Lectures are Mondays and Wednesdays, 5:10PM - 6:30PM, in Dwinelle 155 or online
 via Zoom. Lecture slides are provided via Piazza, and lecture videos are
 provided via bCourses. Students are responsible for all lecture content.
 
+### Lecture Slides
+1. [2022/01/19: Introduction](/assets/lecture_slides/2022.01.19-introduction-182.pdf)
+2. [2022/01/24: ML Review Part 1](/assets/lecture_slides/2022.01.24-ml-review-pt1.pdf)
+
 
 ## Discussion Sections
 The discussion sections will not cover new material, but rather will give you
