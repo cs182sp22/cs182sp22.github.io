@@ -73,7 +73,11 @@ schedule:
         location: Wheeler 120
 
   - name: Thursday
-
+    events:
+    - name: Recitation
+      start: 4:00 PM
+      end: 5:00 PM
+      location: Soda 306
 
   - name: Friday
     events:
