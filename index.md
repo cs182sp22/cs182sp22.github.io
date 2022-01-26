@@ -41,3 +41,6 @@ All homeworks are graded for accuracy. You are given a total of 5 slip days for
 use only on homeworks. These slip days are intended for emergency use, and as
 such we employ a strict late policy. There is no additional slack beyond slip
 days available. Homework solutions are provided via Piazza.
+
+### Homeworks
+1. [Homework 1](https://github.com/cs182sp22/cs182_hw1_student), **due Feb 21 2022 11:59 PM PST**
