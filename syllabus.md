@@ -97,13 +97,13 @@ engineering ethics requires us to point out wrongdoing when we are aware of it.
 
 ### Collaboration
 
-You are encouraged to work on homework problems in study groups of two to four
-people; however, **you must always produce the solutions on your own**.
-Similarly, you may use books or online resources to help solve homework
-problems, but **you must always credit all such sources in your writeup and you
-must never copy material verbatim**. You must explicitly acknowledge everyone
-whom you have worked with or who has given you any significant ideas about the
-homework.
+You are encouraged to collaborate on homeworks with others; however, this
+collaboration must be limited to high-level discussion. **All coding must be done
+on your own**, and you should not discuss specific solutions or look at another’s
+code. Similarly, you may use books or online resources to help solve homework
+problems, but you must always credit all such sources and you must never copy
+material verbatim. You must explicitly acknowledge everyone whom you have worked
+with or who has given you any significant ideas about the homework.
 
 
 ## Grading
