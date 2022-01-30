@@ -25,6 +25,7 @@ provided via bCourses. Students are responsible for all lecture content.
 ### Lecture Slides
 1. [2022/01/19: Introduction](/assets/lecture_slides/2022.01.19-introduction-182.pdf)
 2. [2022/01/24: ML Review Part 1](/assets/lecture_slides/2022.01.24-ml-review-pt1.pdf)
+3. [2022/01/26: ML Review Part 2](/assets/lecture_slides/2022.01.26-ml-review-pt2.pdf)
 
 
 ## Discussion Sections
@@ -34,7 +35,8 @@ like. However, if there are less crowded sections that fit your schedule, those
 offer more opportunities for you to interact with your TA.
 
 ### Section Notes
-1. Week 1: [Section Notes](/assets/section_notes/week1.pdf)
+1. Week 1: [Section Notes](/assets/section_notes/week1.pdf), [Solution](/assets/section_notes/week1_solution.pdf)
+2. Week 2: [Section Notes](/assets/section_notes/week2.pdf)
 
 ## Homeworks
 All homeworks are graded for accuracy. You are given a total of 5 slip days for
