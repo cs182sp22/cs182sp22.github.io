@@ -26,6 +26,7 @@ provided via bCourses. Students are responsible for all lecture content.
 1. [2022/01/19: Introduction](/assets/lecture_slides/2022.01.19-introduction-182.pdf)
 2. [2022/01/24: ML Review Part 1](/assets/lecture_slides/2022.01.24-ml-review-pt1.pdf)
 3. [2022/01/26: ML Review Part 2](/assets/lecture_slides/2022.01.26-ml-review-pt2.pdf)
+4. [2022/01/31: Neural Networks](/assets/lecture_slides/2022.01.31-neural-networks.pdf)
 
 
 ## Discussion Sections
