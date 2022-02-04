@@ -50,7 +50,7 @@ schedule:
       - name: Section
         start: 3:00 PM
         end: 4:00 PM
-        location: Hearst Gym 242
+        location: Online via Zoom
 
   - name: Wednesday
     events:

@@ -45,7 +45,7 @@ schedule:
       - name: Office Hours (Hao Liu)
         start: 12:00 PM
         end: 2:00 PM
-        location: Soda 283E
+        location: Zoom
       - name: Office Hours (Young Geng)
         start: 5:00 PM
         end: 7:00 PM
