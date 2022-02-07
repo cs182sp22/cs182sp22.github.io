@@ -27,11 +27,6 @@ schedule:
   - name: Time
   - name: Monday
     events:
-
-      - name: Office Hours (Dan Hendrycks)
-        start: 9:00 AM
-        end: 11:00 AM
-        location: Zoom
       - name: Office Hours (Jensen Gao)
         start: 3:00 PM
         end: 5:00 PM
