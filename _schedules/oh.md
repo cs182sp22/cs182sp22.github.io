@@ -44,7 +44,7 @@ schedule:
       - name: Office Hours (Young Geng)
         start: 5:00 PM
         end: 7:00 PM
-        location: Soda 326
+        location: 1207 Berkeley Way West
 
   - name: Wednesday
     events:
