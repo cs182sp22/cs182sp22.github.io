@@ -8,4 +8,4 @@ _site/
 node_modules/
 vendor/
 run.sh
-
+.DS_Store
