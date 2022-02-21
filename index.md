@@ -41,7 +41,8 @@ offer more opportunities for you to interact with your TA.
 1. Week 1: [Section Notes](/assets/section_notes/week1.pdf), [Solution](/assets/section_notes/week1_solution.pdf)
 2. Week 2: [Section Notes](/assets/section_notes/week2.pdf), [Solution](/assets/section_notes/week2_solution.pdf)
 3. Week 3: [Section Notes](/assets/section_notes/week3.pdf), [Solution](/assets/section_notes/week3_solution.pdf)
-4. Week 4: [Section Notes](/assets/section_notes/week4.pdf)
+4. Week 4: [Section Notes](/assets/section_notes/week4.pdf), [Solution](/assets/section_notes/week4_solution.pdf)
+5. Week 4: [Section Notes](/assets/section_notes/week5.pdf)
 
 ## Homeworks
 All homeworks are graded for accuracy. You are given a total of 5 slip days for
