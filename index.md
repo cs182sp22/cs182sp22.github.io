@@ -29,6 +29,7 @@ provided via bCourses. Students are responsible for all lecture content.
 4. [2022/01/31: Neural Networks](/assets/lecture_slides/2022.01.31-neural-networks.pdf)
 5. [2022/02/07: Optimization](/assets/lecture_slides/2022.02.07-optimization.pdf)
 6. [2022/02/09: Building Blocks](/assets/lecture_slides/2022.02.09-building-blocks.pdf)
+7. [2022/02/14: ConvNets](/assets/lecture_slides/2022.02.14-conv-nets.pdf)
 
 
 ## Discussion Sections
