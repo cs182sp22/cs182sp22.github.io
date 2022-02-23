@@ -52,4 +52,5 @@ such we employ a strict late policy. There is no additional slack beyond slip
 days available. Homework solutions are provided via Piazza.
 
 ### Homeworks
-1. [Homework 1](https://github.com/cs182sp22/cs182_hw1_student), **due Feb 21 2022 11:59 PM PST**
+1. [Homework 1](https://github.com/cs182sp22/cs182_hw1_student), **due 02/21/2022 11:59 PM PST**
+2. [Homework 2](https://github.com/cs182sp22/cs182_hw2_student), **due 03/14/2022 11:59 PM PST**
