@@ -31,7 +31,9 @@ provided via bCourses. Students are responsible for all lecture content.
 6. [2022/02/09: Building Blocks](/assets/lecture_slides/2022.02.09-building-blocks.pdf)
 7. [2022/02/14: ConvNets](/assets/lecture_slides/2022.02.14-conv-nets.pdf)
 8. [2022/02/23: RNNs](/assets/lecture_slides/2022.02.23-rnns.pdf)
-9. [2022/02/23: MT1 Review](/assets/lecture_slides/2022.02.28-mt1-review.pdf)
+9. [2022/02/28: MT1 Review](/assets/lecture_slides/2022.02.28-mt1-review.pdf)
+10. [2022/03/07: Transformers Part 1](/assets/lecture_slides/2022.03.07-transformers-pt1.pdf)
+11. [2022/03/09: Transformers Part 2](/assets/lecture_slides/2022.03.09-transformers-pt2.pdf)
 
 ## Discussion Sections
 The discussion sections will not cover new material, but rather will give you
