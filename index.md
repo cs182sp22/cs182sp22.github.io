@@ -34,6 +34,7 @@ provided via bCourses. Students are responsible for all lecture content.
 9. [2022/02/28: MT1 Review](/assets/lecture_slides/2022.02.28-mt1-review.pdf)
 10. [2022/03/07: Transformers Part 1](/assets/lecture_slides/2022.03.07-transformers-pt1.pdf)
 11. [2022/03/09: Transformers Part 2](/assets/lecture_slides/2022.03.09-transformers-pt2.pdf)
+12. [2022/03/14: Sequence to Sequence Models](/assets/lecture_slides/2022.03.14-seq2seq.pdf)
 
 ## Discussion Sections
 The discussion sections will not cover new material, but rather will give you
