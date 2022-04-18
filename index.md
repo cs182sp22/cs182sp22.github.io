@@ -53,7 +53,8 @@ offer more opportunities for you to interact with your TA.
 8. Week 8: [Section Notes](/assets/section_notes/week8.pdf), [Solution](/assets/section_notes/week8_solution.pdf)
 9. Week 9: [Section Notes](/assets/section_notes/week9.pdf), [Solution](/assets/section_notes/week9_solution.pdf)
 10. Week 10: [Section Notes](/assets/section_notes/week10.pdf), [Solution](/assets/section_notes/week10_solution.pdf)
-11. Week 11: [Section Notes](/assets/section_notes/week11.pdf)
+11. Week 11: [Section Notes](/assets/section_notes/week11.pdf), [Solution](/assets/section_notes/week11_solution.pdf)
+12. Week 12: [Section Notes](/assets/section_notes/week12.pdf)
 
 ## Homeworks
 All homeworks are graded for accuracy. You are given a total of 5 slip days for
@@ -65,3 +66,4 @@ days available. Homework solutions are provided via Piazza.
 1. [Homework 1](https://github.com/cs182sp22/cs182_hw1_student), **due 02/21/2022 11:59 PM PST**
 2. [Homework 2](https://github.com/cs182sp22/cs182_hw2_student), **due 03/14/2022 11:59 PM PST**
 2. [Homework 3](https://github.com/cs182sp22/cs182_hw3_student), **due 04/11/2022 11:59 PM PST**
+3. [Homework 4](https://colab.research.google.com/drive/1lLHAuIs4YW2tmG8Mhbc7VgvM7oiFev0E?usp=sharing), **due 05/02/2022 11:59 PM PST**
