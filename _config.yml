@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS 182 / 282A
+title: Data C182
 tagline: Designing, Visualizing and Understanding Deep Neural Networks
 description: UC Berkeley
-author: Xinyang Geng
+author: Eric Kim, Naveen Ashish
 baseurl: '' # the subpath of your site, e.g. /blog
 # url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
