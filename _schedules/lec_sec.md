@@ -23,52 +23,71 @@ timeline:
   - '6:30 PM'
   - '7:00 PM'
   - '7:30 PM'
-  - '8:00 PM'
-  - '8:30 PM'  
 schedule:
   - name: Time
   - name: Monday
     events:
-#      - name: Discussion
-#        start: 12:00 PM
-#        end: 1:00 PM
-#        location: Socs 140
-#
-#      - name: Discussion
-#        start: 1:00 PM
-#        end: 2:00 PM
-#        location: Socs 140
-#        
-#      - name: Discussion
-#        start: 2:00 PM
-#        end: 3:00 PM
-#        location: HFax B5
-#        
-#      - name: Discussion
-#        start: 5:00 PM
-#        end: 6:00 PM
-#        location: HFax B5
+      - name: Lecture
+        start: 5:00 PM
+        end: 6:30 PM
+        location: Dwinelle 155
+
+      - name: Section
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Online via Zoom
 
   - name: Tuesday
     events:
-#      - name: Discussion
-#        start: 2:00 PM
-#        end: 3:00 PM
-#        location: Socs 60
-
-      - name: Lecture
-        start: 6:30 PM
-        end: 8:00 PM
-        location: 10 Evans (or Online via Zoom)
+      - name: Section
+        start: 9:00 AM
+        end: 10:00 AM
+        location: Wheeler 120
+      - name: Section
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Cory 289
+      - name: Section
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Online via Zoom
 
   - name: Wednesday
     events:
+      - name: Lecture
+        start: 5:00 PM
+        end: 6:30 PM
+        location: Dwinelle 155
+
+      - name: Section
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Wheeler 108
+      - name: Section
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Online via Zoom
+      - name: Section
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Wheeler 120
 
   - name: Thursday
     events:
-      - name: Lecture
-        start: 6:30 PM
-        end: 8:00 PM
-        location: 10 Evans (or Online via Zoom)
+    - name: Recitation
+      start: 4:00 PM
+      end: 5:00 PM
+      location: Soda 306
+
+  - name: Friday
+    events:
+    - name: Section
+      start: 1:00 PM
+      end: 2:00 PM
+      location: Dwinelle 219
+    - name: Section
+      start: 3:00 PM
+      end: 4:00 PM
+      location: Dwinelle 209
 
 ---
