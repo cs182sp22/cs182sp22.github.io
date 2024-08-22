@@ -27,49 +27,32 @@ schedule:
   - name: Time
   - name: Monday
     events:
-      - name: Office Hours (Jensen Gao)
-        start: 3:00 PM
-        end: 5:00 PM
-        location: Soda 283E
-      - name: Office Hours (Marvin Zhang)
-        start: 6:30 PM
-        end: 7:00 PM
-        location: Dwinelle 155
+#      - name: Office Hours (Jensen Gao)
+#        start: 3:00 PM
+#        end: 5:00 PM
+#        location: Soda 283E
+#      - name: Office Hours (Marvin Zhang)
+#        start: 6:30 PM
+#        end: 7:00 PM
+#        location: Dwinelle 155
   - name: Tuesday
     events:
-      - name: Office Hours (Hao Liu)
-        start: 12:00 PM
-        end: 2:00 PM
-        location: Zoom
-      - name: Office Hours (Young Geng)
-        start: 5:00 PM
-        end: 7:00 PM
-        location: 1207 Berkeley Way West
+#      - name: Office Hours (Hao Liu)
+#        start: 12:00 PM
+#        end: 2:00 PM
+#        location: Zoom
+#      - name: Office Hours (Young Geng)
+#        start: 5:00 PM
+#        end: 7:00 PM
+#        location: 1207 Berkeley Way West
 
   - name: Wednesday
     events:
-      - name: Office Hours (Smitha Milli)
-        start: 9:00 AM
-        end: 11:00 AM
-        location: Zoom
-      - name: Office Hours (Marvin Zhang)
-        start: 6:30 PM
-        end: 7:00 PM
-        location: Dwinelle 155
+
   - name: Thursday
     events:
-      - name: Office Hours (Yuqing Du)
-        start: 10:00 AM
-        end: 12:00 PM
-        location: Cory 258
 
   - name: Friday
     events:
 
-  - name: Saturday
-    events:
-    - name: Office Hours (Olivia Watkins)
-      start: 12:00 PM
-      end: 2:00 PM
-      location: Soda 411
 ---
