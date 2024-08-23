@@ -1,7 +1,7 @@
 ---
 name: Naveen Ashish
 role: Instructor
-email: TBD
+email: nashish@berkeley.edu
 photo: naveen_ashish.jpg
 about-me: |
     Naveen Ashish, currently Chief Scientist at Inferlink Corp., has been contributing to the field of
