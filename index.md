@@ -27,6 +27,10 @@ They do not, however, follow a closed or compact set of theoretical principles.
 In Yann Lecun's words they require "an interplay between intuitive insights, theoretical modeling, practical implementations, empirical studies, and scientific analyses."
 This course attempts to cover that ground.
 
+## Textbook (Optional)
+The text "Deep Learning: Foundations & Concepts" by Christopher Bishop & Hugh Bishop is recommended but not required.
+The free-to-use online version is at https://www.bishopbook.com/ 
+
 ## Lectures
 Lectures are Tuesdays and Thursdays, 6:30PM - 8PM, in 10 Evans or online
 via Zoom. Lecture slides are provided via this website, and lecture videos are
