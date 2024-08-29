@@ -38,9 +38,7 @@ provided via bCourses. Students are responsible for all lecture content.
 
 ### Lecture Slides
 
-TBD
-
-[//]: # (- [2022/01/19: Introduction]&#40;/assets/lecture_slides/2022.01.19-introduction-182.pdf&#41;)
+ (- [2024/08/29: Introduction]&#40;/assets/lecture_slides/data182_Lecture1_Introduction.pdf&#41;)
 
 [//]: # (- [2022/01/24: ML Review Part 1]&#40;/assets/lecture_slides/2022.01.24-ml-review-pt1.pdf&#41;)
 
