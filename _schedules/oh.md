@@ -31,6 +31,10 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
         location: Warren Hall 101-B (Region B)
+      - name: Office Hours (Ryan Campbell)
+        start: 4:00 PM
+        end: 5:00 PM
+        location: Warren Hall 101-B (Region A)
       - name: Office Hours (Vivek Verma)
         start: 5:00 PM
         end: 6:00 PM
@@ -41,10 +45,6 @@ schedule:
         location: Warren Hall 101-B (Region A)
   - name: Tuesday
     events:
-      - name: Office Hours (Ryan Campbell)
-        start: 11:00 AM
-        end: 12:00 PM
-        location: TBD
 
   - name: Wednesday
     events:
