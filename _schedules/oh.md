@@ -27,32 +27,50 @@ schedule:
   - name: Time
   - name: Monday
     events:
-#      - name: Office Hours (Jensen Gao)
-#        start: 3:00 PM
-#        end: 5:00 PM
-#        location: Soda 283E
-#      - name: Office Hours (Marvin Zhang)
-#        start: 6:30 PM
-#        end: 7:00 PM
-#        location: Dwinelle 155
+      - name: Office Hours (Yuxi Liu)
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Warren Hall 101-B (Region B)
+      - name: Office Hours (Vivek Verma)
+        start: 4 PM
+        end: 5 PM
+        location: Warren Hall 101-B (Region B)      
   - name: Tuesday
     events:
-#      - name: Office Hours (Hao Liu)
-#        start: 12:00 PM
-#        end: 2:00 PM
-#        location: Zoom
-#      - name: Office Hours (Young Geng)
-#        start: 5:00 PM
-#        end: 7:00 PM
-#        location: 1207 Berkeley Way West
+      - name: Office Hours (Ryan Campbell)
+        start: 11:00 AM
+        end: 12:00 PM
+        location: TBD
 
   - name: Wednesday
     events:
 
   - name: Thursday
     events:
-
+      - name: Office Hours (Jerry He)
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Warren Hall 101-B (Region A)
+      - name: Office Hours (William Chen)
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Warren Hall 101-B (Region A)
+      - name: Office Hours (Jinjian Liu)
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Warren Hall 101-B (Region A)
+      - name: Office Hours (Richard Chao)
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Warren Hall 101-B (Region A)
+      - name: Office Hours (Amogh Tantradi)
+        start: 4:00 PM
+        end: 5:00 PM
+        location: TBD        
   - name: Friday
     events:
-
+      - name: Office Hours (Rami Ratl Mrad)
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Warren Hall 101-B (Region A)
 ---

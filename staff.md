@@ -32,3 +32,13 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+{% assign tutors = site.staffers | where: 'role', 'Tutor' %}
+{% assign num_tutors = tutors | size %}
+{% if num_tutors != 0 %}
+## Tutors
+
+{% for staffer in tutors %}
+{{ staffer }}
+{% endfor %}
+{% endif %}

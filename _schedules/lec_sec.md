@@ -29,33 +29,29 @@ schedule:
   - name: Time
   - name: Monday
     events:
-#      - name: Discussion
-#        start: 12:00 PM
-#        end: 1:00 PM
-#        location: Socs 140
-#
-#      - name: Discussion
-#        start: 1:00 PM
-#        end: 2:00 PM
-#        location: Socs 140
-#        
-#      - name: Discussion
-#        start: 2:00 PM
-#        end: 3:00 PM
-#        location: HFax B5
-#        
-#      - name: Discussion
-#        start: 5:00 PM
-#        end: 6:00 PM
-#        location: HFax B5
+      - name: Discussion (TA Jerry He)
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Socs 140
+      - name: Discussion (TA Rami Ratl Mrad)
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Socs 140
+      - name: Discussion (TA Vivek Verma)
+        start: 2:00 PM
+        end: 3:00 PM
+        location: HFax B5
+      - name: Discussion (TA Yuxi Liu)
+        start: 5:00 PM
+        end: 6:00 PM
+        location: HFax B5        
 
   - name: Tuesday
     events:
-#      - name: Discussion
-#        start: 2:00 PM
-#        end: 3:00 PM
-#        location: Socs 60
-
+      - name: Discussion (TA William Chen)
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Wheeler 20
       - name: Lecture
         start: 6:30 PM
         end: 8:00 PM
@@ -71,4 +67,6 @@ schedule:
         end: 8:00 PM
         location: 10 Evans (or Online via Zoom)
 
+  - name: Friday
+    events:
 ---
