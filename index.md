@@ -27,6 +27,14 @@ They do not, however, follow a closed or compact set of theoretical principles.
 In Yann Lecun's words they require "an interplay between intuitive insights, theoretical modeling, practical implementations, empirical studies, and scientific analyses."
 This course attempts to cover that ground.
 
+**Important:** In this course, we will use [Edstem](https://edstem.org/us/courses/64085/discussion/) to post announcements and important information.
+**It is the student's responsibility to actively monitor the Ed for any important announcements.**
+
+**Useful course links:**
+- bCourse: [link](https://bcourses.berkeley.edu/courses/1538180)
+- Ed: [link](https://edstem.org/us/courses/64085/discussion/)
+- Gradescope: [link](https://www.gradescope.com/courses/837491)
+
 ## Textbook (Optional)
 The text "Deep Learning: Foundations & Concepts" by Christopher Bishop & Hugh Bishop is recommended but not required.
 The free-to-use online version is at https://www.bishopbook.com/ 
@@ -34,10 +42,15 @@ The free-to-use online version is at https://www.bishopbook.com/
 ## Lectures
 Lectures are Tuesdays and Thursdays, 6:30PM - 8PM, in 10 Evans or online
 via Zoom. Lecture slides are provided via this website, and lecture videos are
-provided via bCourses. Students are responsible for all lecture content.
+provided via the bCourses ["Media Gallery"](https://bcourses.berkeley.edu/courses/1538180/external_tools/90481). Students are responsible for all lecture content.
+
+This Ed post ["Lecture Schedule"](https://edstem.org/us/courses/64085/discussion/5196727) contains more info about the lecture schedule, including: location (eg 10 Evans vs online Zoom) and lecture recording links.
 
 ### Lecture Slides
-<a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a>
+
+- Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a>
+- Lecture 02 [Week 2, 2024/09/03] ML Review Part 1
+- Lecture 03 [Week 2, 2024/09/05] ML Review Part 2
 
 [//]: # (- [2022/01/24: ML Review Part 1]&#40;/assets/lecture_slides/2022.01.24-ml-review-pt1.pdf&#41;)
 
