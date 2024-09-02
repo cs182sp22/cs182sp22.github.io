@@ -15,7 +15,7 @@
   }
 
   ul.schedule-timeline {
-    margin: 60px auto 0;
+    margin: 70px auto 0;
     position: absolute;
     width: 100%;
   }
@@ -23,7 +23,7 @@
   .schedule-time {
     @extend .fs-2;
     color: $grey-dk-000;
-    height: 60px;
+    height: 70px;
     margin: 0;
     padding: $sp-2;
     position: relative;
@@ -60,7 +60,7 @@
     align-items: center;
     display: flex;
     font-size: 18px !important;
-    height: 60px;
+    height: 70px;
     justify-content: center;
     margin: 0;
   }

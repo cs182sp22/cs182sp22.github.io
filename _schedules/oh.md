@@ -32,9 +32,13 @@ schedule:
         end: 4:00 PM
         location: Warren Hall 101-B (Region B)
       - name: Office Hours (Vivek Verma)
-        start: 4 PM
-        end: 5 PM
-        location: Warren Hall 101-B (Region B)      
+        start: 5:00 PM
+        end: 6:00 PM
+        location: Warren Hall 101-B (Region A)
+      - name: Office Hours (Amogh Tantradi)
+        start: 6:00 PM
+        end: 7:00 PM
+        location: Warren Hall 101-B (Region A)
   - name: Tuesday
     events:
       - name: Office Hours (Ryan Campbell)
@@ -63,10 +67,6 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         location: Warren Hall 101-B (Region A)
-      - name: Office Hours (Amogh Tantradi)
-        start: 4:00 PM
-        end: 5:00 PM
-        location: TBD        
   - name: Friday
     events:
       - name: Office Hours (Rami Ratl Mrad)
