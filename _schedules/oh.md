@@ -48,7 +48,10 @@ schedule:
 
   - name: Wednesday
     events:
-
+      - name: <a href="https://berkeley.zoom.us/j/99060101907">Office Hours (Eric Kim)</a>
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Online, <a href="https://berkeley.zoom.us/j/99060101907">Zoom Link</a>
   - name: Thursday
     events:
       - name: Office Hours (Jerry He)
