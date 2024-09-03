@@ -20,7 +20,7 @@
     <p class="staffer-meta">Quiz Section: {{ page.section | markdownify | strip_html }}</p>
     {% endif %}
     {% if page.office-hours %}
-    <p class="staffer-meta">Office Hours: {{ page.office-hours | markdownify | strip_html }}</p>
+    <p class="staffer-meta">Office Hours: {{ page.office-hours | markdownify }}</p>
     {% endif %}
     {% if page.about-me %}
     <p class="staffer-meta">About Me: {{ page.about-me | markdownify | strip_html }}</p>

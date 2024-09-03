@@ -10,5 +10,5 @@ about-me: |
   I currently work at Pinterest on the Visual Search team as a machine learning engineer, working on the entire ML stack including modeling, serving, and big-data pipelines.
   I recently moved to Fullerton, CA and am loving it!
   For fun, I enjoy playing music (piano, guitar, bass, vocals), video games, and pickleball.
-office-hours: TBD
+office-hours: Wednesday 3pm - 4pm. Online, <a href="https://berkeley.zoom.us/j/99060101907">Zoom Link</a>
 ---
