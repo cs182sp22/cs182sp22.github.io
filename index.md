@@ -123,21 +123,10 @@ TBD
 [//]: # (- Discussion 12: [Section Notes]&#40;/assets/section_notes/week12.pdf&#41;, [Solution]&#40;/assets/section_notes/week12_solution.pdf&#41;)
 
 ## Homeworks
-All homeworks are graded for accuracy. 
-
-[//]: # (You are given a total of 5 slip days for)
-
-[//]: # (use only on homeworks. These slip days are intended for emergency use, and as)
-
-[//]: # (such we employ a strict late policy. There is no additional slack beyond slip)
-
-[//]: # (days available. )
-
-[//]: # (Homework solutions are provided via Piazza.)
+All homeworks are graded for accuracy.
+See the [course syllabus](https://datac182fa24.github.io/syllabus/#homeworks) for info about collaboration, slip day, late policy.
 
 ### Homeworks
-
-TBD
 
 - [Homework 1](https://github.com/datac182fa24/datac182_hw1_student), **due Tues Oct 1st 2024 11:59 PM PST**
 
