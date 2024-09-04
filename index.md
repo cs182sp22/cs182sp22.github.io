@@ -139,7 +139,7 @@ All homeworks are graded for accuracy.
 
 TBD
 
-[//]: # (- [Homework 1]&#40;https://github.com/cs182sp22/cs182_hw1_student&#41;, **due 02/21/2022 11:59 PM PST**)
+- [Homework 1](https://github.com/datac182fa24/datac182_hw1_student), **due Tues Oct 1st 2024 11:59 PM PST**
 
 [//]: # (- [Homework 2]&#40;https://github.com/cs182sp22/cs182_hw2_student&#41;, **due 03/14/2022 11:59 PM PST**)
 
