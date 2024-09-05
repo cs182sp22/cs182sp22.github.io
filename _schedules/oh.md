@@ -43,8 +43,13 @@ schedule:
         start: 6:00 PM
         end: 7:00 PM
         location: Warren Hall 101-B (Region A)
+
   - name: Tuesday
     events:
+      - name: Office Hours (Jerry He, William Chen)
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Warren Hall 101-B (Region A)
 
   - name: Wednesday
     events:
@@ -54,14 +59,6 @@ schedule:
         location: Online, <a href="https://berkeley.zoom.us/j/99060101907">Zoom Link</a>
   - name: Thursday
     events:
-      - name: Office Hours (Jerry He)
-        start: 10:00 AM
-        end: 11:00 AM
-        location: Warren Hall 101-B (Region A)
-      - name: Office Hours (William Chen)
-        start: 11:00 AM
-        end: 12:00 PM
-        location: Warren Hall 101-B (Region A)
       - name: Office Hours (Jinjian Liu)
         start: 1:00 PM
         end: 2:00 PM
