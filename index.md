@@ -49,7 +49,9 @@ This Ed post ["Lecture Schedule"](https://edstem.org/us/courses/64085/discussion
 ### Lecture Slides
 
 - Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a>
-- Lecture 02 [Week 2, 2024/09/03] ML Review Part 1
+ - Bishop Book: Chapter 1
+- Lecture 02 [Week 2, 2024/09/03] <a href="assets/lecture_slides/data182_Lecture2_MLReview_1.pdf"> ML Review Part 1 </a>
+ - Bishop Book: Chapter 2
 - Lecture 03 [Week 2, 2024/09/05] ML Review Part 2
 
 [//]: # (- [2022/01/24: ML Review Part 1]&#40;/assets/lecture_slides/2022.01.24-ml-review-pt1.pdf&#41;)
