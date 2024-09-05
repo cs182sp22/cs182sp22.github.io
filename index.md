@@ -52,7 +52,6 @@ This Ed post ["Lecture Schedule"](https://edstem.org/us/courses/64085/discussion
   <ul>
  <li> Bishop Book: Chapter 1
   </ul>
-</li>
 <li>Lecture 02 [Week 2, 2024/09/03] <a href="assets/lecture_slides/data182_Lecture2_MLReview_1.pdf"> ML Review Part 1 </a>
  <ul>
   <li>Bishop Book: Chapter 2
