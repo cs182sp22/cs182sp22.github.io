@@ -49,11 +49,15 @@ This Ed post ["Lecture Schedule"](https://edstem.org/us/courses/64085/discussion
 ### Lecture Slides
 <ul>
 <li>Lecture 01 [Week 1, 2024/08/29] <a href="assets/lecture_slides/data182_Lecture1_Introduction.pdf">Introduction</a>
- - Bishop Book: Chapter 1
+  <ul>
+ <li> Bishop Book: Chapter 1
+  </ul>
 </li>
 <li>Lecture 02 [Week 2, 2024/09/03] <a href="assets/lecture_slides/data182_Lecture2_MLReview_1.pdf"> ML Review Part 1 </a>
- - Bishop Book: Chapter 2
- - <a href="assets/readings/NLL.pdf"> Reading: Binary classification & logistic regression </a>
+ <ul>
+  <li>Bishop Book: Chapter 2
+ <li>Reading:  <a href="assets/readings/NLL.pdf"> Binary classification & logistic regression </a>
+ </ul>
 <li> Lecture 03 [Week 2, 2024/09/05] ML Review Part 2
 </ul>
 
