@@ -57,7 +57,7 @@ This Ed post ["Lecture Schedule"](https://edstem.org/us/courses/64085/discussion
   <li>Bishop Book: Chapter 2 </li>
  <li>Reading:  <a href="assets/readings/NLL.pdf"> Binary classification & logistic regression </a> </li>
  </ul>
-<li> Lecture 03 [Week 2, 2024/09/05] ML Review Part 2 </li>
+<li> Lecture 03 [Week 2, 2024/09/05] <a href="assets/lecture_slides/data182_Lecture03_MLReview_2.pdf"> ML Review Part 2</a> </li>
 </ul>
 
 [//]: # (- [2022/01/24: ML Review Part 1]&#40;/assets/lecture_slides/2022.01.24-ml-review-pt1.pdf&#41;)
