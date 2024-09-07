@@ -37,7 +37,7 @@ This course attempts to cover that ground.
 
 ## Textbook (Optional)
 The text "Deep Learning: Foundations & Concepts" by Christopher Bishop & Hugh Bishop is recommended but not required.
-The free-to-use online version is at https://www.bishopbook.com/ 
+The free-to-use online version is at [https://www.bishopbook.com/](https://www.bishopbook.com/) 
 
 ## Lectures
 Lectures are Tuesdays and Thursdays, 6:30PM - 8PM, in 10 Evans or online
@@ -45,6 +45,9 @@ via Zoom. Lecture slides are provided via this website, and lecture videos are
 provided via the bCourses ["Media Gallery"](https://bcourses.berkeley.edu/courses/1538180/external_tools/90481). Students are responsible for all lecture content.
 
 This Ed post ["Lecture Schedule"](https://edstem.org/us/courses/64085/discussion/5196727) contains more info about the lecture schedule, including: location (eg 10 Evans vs online Zoom) and lecture recording links.
+
+Here is an **optional weekly reading list** of supplemental material: [link](https://docs.google.com/document/d/1asBPDgxrI47hiQ2rjGBmdAXLWv02kopqDgcE4yyW718/edit). 
+While this is not required for the course, we believe that the material here can enhance understanding of the course and, more broadly, gain further exposure to the DNN field.
 
 ### Lecture Slides
 <ul>
@@ -58,11 +61,11 @@ This Ed post ["Lecture Schedule"](https://edstem.org/us/courses/64085/discussion
  <li>Reading:  <a href="assets/readings/NLL.pdf"> Binary classification & logistic regression </a> </li>
  </ul>
 <li> Lecture 03 [Week 2, 2024/09/05] <a href="assets/lecture_slides/data182_Lecture03_MLReview_2.pdf"> ML Review Part 2</a> </li>
+<li> Lecture 04 [Week 3, 2024/09/10] Neural Networks </li>
+<li> Lecture 05 [Week 3, 2024/09/12] Optimization </li>
+<li> Lecture 06 [Week 4, 2024/09/17] Convolutional Neural Networks ("ConvNets")</li>
+<li> Lecture 07 [Week 4, 2024/09/19] Recurrent Neural Networks ("RNNs")</li>
 </ul>
-
-[//]: # (- [2022/01/24: ML Review Part 1]&#40;/assets/lecture_slides/2022.01.24-ml-review-pt1.pdf&#41;)
-
-[//]: # (- [2022/01/26: ML Review Part 2]&#40;/assets/lecture_slides/2022.01.26-ml-review-pt2.pdf&#41;)
 
 [//]: # (- [2022/01/31: Neural Networks]&#40;/assets/lecture_slides/2022.01.31-neural-networks.pdf&#41;)
 
