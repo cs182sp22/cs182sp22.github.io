@@ -109,7 +109,7 @@ offer more opportunities for you to interact with your TA.
 
 TBD
 
-[//]: # (- Discussion 1: [Section Notes]&#40;/assets/section_notes/week1.pdf&#41;, [Solution]&#40;/assets/section_notes/week1_solution.pdf&#41;)
+- Discussion 03 (Week 3): [Section Notes](/assets/section_notes/week03.pdf), [Solution](/assets/section_notes/week03_solution.pdf)
 
 [//]: # (- Discussion 2: [Section Notes]&#40;/assets/section_notes/week2.pdf&#41;, [Solution]&#40;/assets/section_notes/week2_solution.pdf&#41;)
 
