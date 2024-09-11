@@ -53,6 +53,10 @@ schedule:
 
   - name: Wednesday
     events:
+      - name: Office Hours (Naveen Ashish)
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Online, (Zoom link TBD)      
       - name: <a href="https://berkeley.zoom.us/j/99060101907">Office Hours (Eric Kim)</a>
         start: 3:00 PM
         end: 4:00 PM
