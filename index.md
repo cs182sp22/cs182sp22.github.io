@@ -61,7 +61,7 @@ While this is not required for the course, we believe that the material here can
  <li>Reading:  <a href="assets/readings/NLL.pdf"> Binary classification & logistic regression </a> </li>
  </ul>
 <li> Lecture 03 [Week 2, 2024/09/05] <a href="assets/lecture_slides/data182_Lecture03_MLReview_2.pdf"> ML Review Part 2</a> </li>
-<li> Lecture 04 [Week 3, 2024/09/10] Neural Networks </li>
+<li> Lecture 04 [Week 3, 2024/09/10] <a href="assets/lecture_slides/data182_Lecture04_Neural_Networks.pdf">Neural Networks</a> </li>
 <li> Lecture 05 [Week 3, 2024/09/12] Optimization </li>
 <li> Lecture 06 [Week 4, 2024/09/17] Convolutional Neural Networks ("ConvNets")</li>
 <li> Lecture 07 [Week 4, 2024/09/19] Recurrent Neural Networks ("RNNs")</li>
