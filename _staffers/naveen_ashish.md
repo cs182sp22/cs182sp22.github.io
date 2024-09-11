@@ -19,5 +19,5 @@ about-me: |
   
     Ashish is an avid hiker, an activity he is looking to further amplify with his very recent move to
     the East Bay with its proximity to some of the best hiking spots in the region.  
-office-hours: TBD
+office-hours: Wednesday, 1pm - 2pm. Online, (Zoom link TBD)
 ---
