@@ -54,7 +54,7 @@ With that said, we encourage you to attend as much of the course in-person as po
 ## Exams
 
 There will be one midterm and a final project.
-The midterm date will be: **Thursday, October 24th 2024, 6:30 PM - 8 PM**.
+The midterm date will be: **Tuesday, October 22th 2024, 6:30 PM - 8 PM**.
 
 No alternate exam times will be offered. 
 If you are unable to make the above midterm exam time due to truly extenuating circumstances, please make a private
