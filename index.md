@@ -66,8 +66,9 @@ While this is not required for the course, we believe that the material here can
  <ul>
   <li>Bishop Book: Chapter 7 </li>
  </ul>
-<li> Lecture 06 [Week 4, 2024/09/17] Convolutional Neural Networks ("ConvNets")</li>
-<li> Lecture 07 [Week 4, 2024/09/19] Recurrent Neural Networks ("RNNs")</li>
+<li> Lecture 06 [Week 4, 2024/09/17] Building Blocks </li>
+<li> Lecture 07 [Week 4, 2024/09/19] Convolutional Neural Networks ("ConvNets")</li>
+<li> Lecture 08 [Week 5, 2024/09/24] Recurrent Neural Networks ("RNNs")</li>
 </ul>
 
 [//]: # (- [2022/01/31: Neural Networks]&#40;/assets/lecture_slides/2022.01.31-neural-networks.pdf&#41;)
