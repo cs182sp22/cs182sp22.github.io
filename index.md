@@ -114,7 +114,7 @@ TBD
 
 - Discussion 03 (Week 3): [Section Notes](/assets/section_notes/week03.pdf), [Solution](/assets/section_notes/week03_solution.pdf)
 
-- Discussion 04 (Week 4): [Section Notes](/assets/section_notes/week2.pdf), [Solution](/assets/section_notes/week2_solution.pdf)
+- Discussion 04 (Week 4): [Section Notes](/assets/section_notes/week04.pdf), [Solution](/assets/section_notes/week04_solution.pdf)
 
 [//]: # (- Discussion 3: [Section Notes]&#40;/assets/section_notes/week3.pdf&#41;, [Solution]&#40;/assets/section_notes/week3_solution.pdf&#41;)
 
