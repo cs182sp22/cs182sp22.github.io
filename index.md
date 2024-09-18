@@ -66,7 +66,18 @@ While this is not required for the course, we believe that the material here can
  <ul>
   <li>Bishop Book: Chapter 7 </li>
  </ul>
-<li> Lecture 06 [Week 4, 2024/09/17] <a href="assets/lecture_slides/data182_Lecture06_Building_Blocks.pdf">Building Blocks</a> </li>
+<li> Lecture 06 [Week 4, 2024/09/17] <a href="assets/lecture_slides/data182_Lecture06_Building_Blocks.pdf">Building Blocks</a>
+    <ul>
+    <li>Python demo code: 
+<a href="assets/lecture_slides/python/lecture06/tensor_demo.py">[tensor_demo.py]</a> 
+<a href="assets/lecture_slides/python/lecture06/two_layer_linear_nn_demo.py">[two_layer_linear_nn_demo.py]</a>
+<a href="assets/lecture_slides/python/lecture06/normalization_motivation.py">[normalization_motivation.py]</a>
+<a href="assets/lecture_slides/python/lecture06/batch_norm_demo.py">[batch_norm_demo.py]</a>
+<a href="assets/lecture_slides/python/lecture06/layer_norm_demo.py">[layer_norm_demo.py]</a>
+<a href="assets/lecture_slides/python/lecture06/two_layer_nn_bells_and_whistles.py">[two_layer_nn_bells_and_whistles.py]</a>
+    </li>
+    </ul>
+</li>
 <li> Lecture 07 [Week 4, 2024/09/19] Convolutional Neural Networks ("ConvNets")</li>
 <li> Lecture 08 [Week 5, 2024/09/24] Recurrent Neural Networks ("RNNs")</li>
 </ul>
