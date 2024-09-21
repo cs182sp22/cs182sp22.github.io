@@ -38,10 +38,10 @@ This course attempts to cover that ground.
 ## Textbooks (Optional)
 <ul>
 <li>The text "Deep Learning: Foundations & Concepts" by Christopher Bishop & Hugh Bishop is recommended but not required.
-The free-to-use online version is at [link](https://www.bishopbook.com/) 
+The free-to-use online version is at <a href="https://www.bishopbook.com/">Bishop Book</a> 
   </li>
   <li>
-    Dive into Deep Learning [link](https://d2l.ai/) is an excellent interactive online textbook and set of resources for Deep Learning ! (a PDF version of the entire book is also available online)
+    Dive into Deep Learning <a href="https://d2l.ai/">D2LAI</a> is an excellent interactive online textbook and set of resources for Deep Learning ! (a PDF version of the entire book is also available online)
   </li>
 </ul>
 
