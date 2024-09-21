@@ -35,10 +35,15 @@ This course attempts to cover that ground.
 - Ed: [link](https://edstem.org/us/courses/64085/discussion/)
 - Gradescope: [link](https://www.gradescope.com/courses/837491)
 
-## Textbook (Optional)
-The text "Deep Learning: Foundations & Concepts" by Christopher Bishop & Hugh Bishop is recommended but not required.
+## Textbooks (Optional)
+<ul>
+<li>The text "Deep Learning: Foundations & Concepts" by Christopher Bishop & Hugh Bishop is recommended but not required.
 The free-to-use online version is at [https://www.bishopbook.com/](https://www.bishopbook.com/) 
-
+  </li>
+  <li>
+    Dive into Deep Learning https://d2l.ai/ is an excellent interactive online textbook and set of resources for Deep Learning ! (a PDF version of the entire book is also available online)
+  </li>
+</ul>
 ## Lectures
 Lectures are Tuesdays and Thursdays, 6:30PM - 8PM, in 10 Evans or online
 via Zoom. Lecture slides are provided via this website, and lecture videos are
