@@ -44,6 +44,7 @@ The free-to-use online version is at [https://www.bishopbook.com/](https://www.b
     Dive into Deep Learning https://d2l.ai/ is an excellent interactive online textbook and set of resources for Deep Learning ! (a PDF version of the entire book is also available online)
   </li>
 </ul>
+
 ## Lectures
 Lectures are Tuesdays and Thursdays, 6:30PM - 8PM, in 10 Evans or online
 via Zoom. Lecture slides are provided via this website, and lecture videos are
