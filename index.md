@@ -137,7 +137,7 @@ offer more opportunities for you to interact with your TA.
 
 - Discussion 02 (Week 4): [Section Notes](/assets/section_notes/week04.pdf), [Solution](/assets/section_notes/week04_solution.pdf)
 
-[//]: # (- Discussion 3: [Section Notes]&#40;/assets/section_notes/week3.pdf&#41;, [Solution]&#40;/assets/section_notes/week3_solution.pdf&#41;)
+- Discussion 03 (Week 5): [Section Notes](/assets/section_notes/week05.pdf)
 
 [//]: # (- Discussion 4: [Section Notes]&#40;/assets/section_notes/week4.pdf&#41;, [Solution]&#40;/assets/section_notes/week4_solution.pdf&#41;)
 
