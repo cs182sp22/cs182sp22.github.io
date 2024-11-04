@@ -149,7 +149,7 @@ offer more opportunities for you to interact with your TA.
 
 [//]: # (- Discussion 7: [Section Notes]&#40;/assets/section_notes/week7.pdf&#41;, [Solution]&#40;/assets/section_notes/week7_solution.pdf&#41;)
 
-[//]: # (- Discussion 8: [Section Notes]&#40;/assets/section_notes/week8.pdf&#41;, [Solution]&#40;/assets/section_notes/week8_solution.pdf&#41;)
+- Discussion 08 (Week 11): [Section Notes](/assets/section_notes/week08.pdf);, [Solution](/assets/section_notes/week08_solution.pdf)
 
 [//]: # (- Discussion 9: [Section Notes]&#40;/assets/section_notes/week9.pdf&#41;, [Solution]&#40;/assets/section_notes/week9_solution.pdf&#41;)
 
